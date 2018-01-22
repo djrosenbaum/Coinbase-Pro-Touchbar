@@ -25,8 +25,7 @@ GDAX crypto prices on MacBook Pro touchbar
 7. Click the Better Touch Toolbar icon on your touchbar to toggle Crypto Prices On and Off
 
 # DESCRIPTION
-This preset is for the better touch toolbar to display Coinbase GDAX Crypto prices on a Macbook Pro touchbar.
-Display Ether, Bitcoin Core, Bitcoin Cash, and Litecoin on your touchbar.
+This preset allows displaying crypto prices with the Better Touch Toolbar. Designed to display Coinbase GDAX Crypto prices on a Macbook Pro touchbar. Display Ether, Bitcoin Core, Bitcoin Cash, and Litecoin on your touchbar.
 
 # SPECIAL THANKS
 Special thanks to [Cryptodam.us](http://www.cryptodam.us/)
