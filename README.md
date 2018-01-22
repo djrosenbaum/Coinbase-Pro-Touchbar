@@ -1,5 +1,5 @@
 # GDAX-Touchbar
-GDAX crypto prices on MacBook Pro touchbar
+Display GDAX Crypto Prices on MacBook Pro touchbar
 
 # DONATE
 - ETH: 0xB80679fA7867a2a4aA727d15aD008661dd115F6D
