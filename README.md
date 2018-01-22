@@ -22,7 +22,7 @@ GDAX crypto prices on MacBook Pro touchbar
 
 6. Click Import
 
-7. Click the BTT icon on your touchbar to toggle Crypto Prices On and Off
+7. Click the Better Touch Toolbar icon on your touchbar to toggle Crypto Prices On and Off
 
 # DESCRIPTION
 This preset is for the better touch toolbar to display Coinbase GDAX Crypto prices on a Macbook Pro touchbar.
