@@ -10,7 +10,7 @@ GDAX crypto prices on MacBook Pro touchbar
 ![Screenshot](gdax-touchbar.jpg)
 
 # INSTALLATION INSTRUCTIONS
-1. Save [gdax-touchbar.json](https://github.com/djrosenbaum/GDAX-Touchbar/blob/master/gdax-touchbar.json)
+1. Save [gdax-touchbar.json](https://raw.githubusercontent.com/djrosenbaum/GDAX-Touchbar/master/gdax-touchbar.json)
 
 2. Download and Install [Better Touch Toolbar](https://www.boastr.net/downloads/)
 
