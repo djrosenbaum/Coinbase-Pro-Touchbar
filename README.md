@@ -20,7 +20,7 @@ Display GDAX Crypto Prices on MacBook Pro touchbar
 
 5. Click Manage Presets from the lower left
 
-6. Click Import
+6. Click Import and select gdax-touchbar.json
 
 7. Click the Better Touch Toolbar icon on your touchbar to toggle Crypto Prices On and Off
 
