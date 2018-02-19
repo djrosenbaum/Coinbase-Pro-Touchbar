@@ -4,7 +4,7 @@ Display GDAX Crypto Prices on MacBook Pro touchbar
 # DONATE
 - ETH: _0xB80679fA7867a2a4aA727d15aD008661dd115F6D_
 - BTC: _1Dq7zhbB9rXCJtuCsgh8pDuwc8Bwama1hf_
-- BCH: _1AND5DzgqYMXkzWkADJHh61NeBx6Waj7Wi_
+- BCH: _bitcoincash:qpnthu05cky4su33h56kf4d079znkz90pyj8aq9yqj_
 - LTC: _LPvjpHxUHx7nU32ckzj9FXrDbji3sFChN7_
 
 ![Screenshot](gdax-touchbar.jpg)
