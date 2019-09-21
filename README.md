@@ -1,5 +1,5 @@
-# GDAX-Touchbar
-Display GDAX Crypto Prices on MacBook Pro touchbar
+# Coinbase Pro Touchbar
+Display Crypto Prices on MacBook Pro touchbar
 
 # DONATE
 - ETH: _0xB80679fA7867a2a4aA727d15aD008661dd115F6D_
