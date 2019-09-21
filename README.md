@@ -10,7 +10,7 @@ Display Crypto Prices on MacBook Pro touchbar
 ![Screenshot](gdax-touchbar.jpg)
 
 # INSTALLATION INSTRUCTIONS
-1. Save [gdax-touchbar.json](https://raw.githubusercontent.com/djrosenbaum/GDAX-Touchbar/master/gdax-touchbar.json)
+1. Save [coinbase-pro-touchbar.json](https://raw.githubusercontent.com/djrosenbaum/Coinbase-Pro-Touchbar/master/coinbase-pro-touchbar.json)
 
 2. Download and Install [Better Touch Toolbar](https://www.boastr.net/downloads/)
 
@@ -20,12 +20,12 @@ Display Crypto Prices on MacBook Pro touchbar
 
 5. Click Manage Presets from the lower left
 
-6. Click Import and select gdax-touchbar.json
+6. Click Import and select coinbase-pro-touchbar.json
 
 7. Click the Better Touch Toolbar icon on your touchbar to toggle Crypto Prices On and Off
 
 # DESCRIPTION
-This preset allows displaying crypto prices with the Better Touch Toolbar. Designed to display Coinbase GDAX Crypto prices on a Macbook Pro touchbar. Display Ether, Bitcoin Core, Bitcoin Cash, and Litecoin on your touchbar.
+This preset allows displaying crypto prices with the Better Touch Toolbar. Designed to display Coinbase Pro Crypto prices on a Macbook Pro touchbar. Display Ether, Bitcoin Core, Bitcoin Cash, and Litecoin on your touchbar.
 
 # SPECIAL THANKS
 Special thanks to [Cryptodam.us](http://www.cryptodam.us/chat)
